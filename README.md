@@ -57,6 +57,7 @@ Para que la información sea muy fácil de entender, usaremos estos gráficos:
 
 ## Herramientas Usadas
 - **Página Web:** React.js
+- **Servidor Neubox:** Almacenar nuestra pagina web
 - **Base de Datos:** MariaDB / MySQL
 - **Limpieza de Datos:** Python (Google Colab)
 
