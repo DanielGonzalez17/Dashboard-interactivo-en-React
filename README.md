@@ -64,3 +64,4 @@ Para que la información sea muy fácil de entender, usaremos estos gráficos:
 
 ## Enlaces
 - **Documento en Google Docs:** [Documento_Justificacion_Fase1_Huella_Carbono](https://docs.google.com/document/d/1LWmoT7j8y1NFYTM4uoFFumASeIaoBhX7iqUp8RkPBUs/edit?usp=drive_web)
+  - **Collab Realizado:** [Collab_Utilizado_en_el_Analisis](https://colab.research.google.com/drive/1YeWHqR-k6pBNn1kHQjeDWkPQzgNzvGCX?usp=sharing)
