@@ -1,0 +1,7 @@
+services:
+  dashboard-co2:
+    build: .
+    container_name: dashboard_co2_react
+    ports:
+      - "8080:80"
+    restart: always
